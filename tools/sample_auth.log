@@ -1,0 +1,7 @@
+Jul 27 10:15:02 server sshd[1234]: Failed password for invalid user admin from 203.0.113.45 port 54321 ssh2
+Jul 27 10:15:04 server sshd[1235]: Failed password for invalid user root from 203.0.113.45 port 54322 ssh2
+Jul 27 10:15:07 server sshd[1236]: Failed password for invalid user test from 203.0.113.45 port 54323 ssh2
+Jul 27 10:16:01 server sshd[1240]: Accepted password for aariz from 192.168.1.50 port 55001 ssh2
+Jul 27 10:17:33 server sshd[1250]: Failed password for invalid user oracle from 198.51.100.22 port 41022 ssh2
+Jul 27 10:17:35 server sshd[1251]: Failed password for invalid user postgres from 198.51.100.22 port 41023 ssh2
+Jul 27 10:18:00 server sshd[1260]: Accepted publickey for deploy from 192.168.1.51 port 55010 ssh2
