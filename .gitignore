@@ -8,6 +8,7 @@ config
 *_credentials*
 *secret*
 *password*
+credential-report.csv
 
 .aws/
 
